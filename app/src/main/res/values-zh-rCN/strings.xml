@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">篮球比赛计分器</string>
+    <string name="textc">0</string>
+    <string name="text2">队伍 B</string>
+    <string name="bt1">罚球+1分</string>
+    <string name="bt2">+2 分</string>
+    <string name="bt3">+3 分</string>
+    <string name="bt4">清零</string>
+    <string name="text1">队伍 A</string>
+</resources>
